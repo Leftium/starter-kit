@@ -2,6 +2,7 @@ This is the starter template with some stuff added:
 - CoffeeScript
 - Pug
 - .gitattributes
+- launch.json (VS Code)
 
 ---
 
