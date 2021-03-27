@@ -19,8 +19,6 @@ $ npx degit https://github.com/Leftium/starter-kit#main my-project
 $ cd my-project
 ```
 
-> Note: the `@next` is temporary
-
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
