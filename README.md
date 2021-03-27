@@ -15,11 +15,8 @@ Everything you need to build a Svelte project, powered by [`create-svelte`](http
 If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
+$ npx degit https://github.com/Leftium/starter-kit#main my-project
+$ cd my-project
 ```
 
 > Note: the `@next` is temporary
